@@ -1,0 +1,9 @@
+- start sida som man registrerar sig eller loggar in
+- endpoint med SIGN UP
+- endpoint LOG IN 
+- when LOGED IN you can accessess the game
+
+- MÅSTE LADDA NER MONGOOSE
+
+- need to seed API with questions OLIKA ENDPOINTS - 
+https://docs.google.com/document/d/1vp6osCjXYoc0J-gaOFNErk0pRext1JErWlGfMW97itk/edit?usp=sharing
